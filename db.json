@@ -26,5 +26,14 @@
     { "id": 20161016010, "title": "PATRICIA DE SOUZA ROCHA" },
     { "id": 20162016030, "title": "RODRIGO SOUZA CAMPOS" },
     { "id": 20131016019, "title": "TACILA NUNES DA CONCEIÇÃO" }
-  ]
+  ],
+  ,
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
+
